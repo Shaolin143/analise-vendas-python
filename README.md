@@ -5,7 +5,7 @@ Este projeto consiste em uma análise exploratória de dados (EDA) focada em mé
 ---
 
 ## 🛠️ Tecnologias e Bibliotecas
-* **Python 3.x**: Linguagem principal.
+* **Python 3**: Linguagem principal.
 * **Pandas**: Manipulação e tratamento de dados.
 * **Matplotlib**: Visualização e geração de gráficos.
 
