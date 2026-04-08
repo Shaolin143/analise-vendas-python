@@ -39,4 +39,4 @@ A partir do processamento dos dados, foram identificados os seguintes pontos:
 ---
 
 ## 👤 Autor
-**Kelvin Henrique** *Analista de Dados em formação* [LinkedIn](SEU_LINK_AQUI) | [Email](SEU_EMAIL_AQUI)
+**Kelvin Henrique** *Analista de Dados em formação* [LinkedIn](https://www.linkedin.com/in/kelvin-henrique-453278205?utm_source=share_via&utm_content=profile&utm_medium=member_android) | [Email](kelvin.moreira9@outlook.com)
